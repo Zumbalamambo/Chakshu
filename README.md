@@ -1,2 +1,2 @@
-# Facial_Recognition
+# FacRec
 Python program using facial recognition in real time video stream.
